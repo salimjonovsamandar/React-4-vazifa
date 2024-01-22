@@ -1,0 +1,50 @@
+.header_top {
+    width: 100%;
+    background: var(--Main, #5361e4);
+    display: flex;
+    padding: 17px 50px;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 60px;
+  }
+  .logo {
+    margin-left: 40px;
+    font-size: 24px;
+    width: 100px;
+    color: white;
+  }
+  .header_nav {
+    gap: 48px;
+  }
+  .nav {
+    padding: 0px;
+    width: 100%;
+    border: none;
+    color: white;
+  }
+  
+  .button {
+    padding: 8px 24px;
+    color: #5361e4;
+    margin-left: 40px;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+  
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
+  .lenguage {
+    padding: 0px;
+    background-color: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+  
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+  }
